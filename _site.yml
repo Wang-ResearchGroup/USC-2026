@@ -1,0 +1,21 @@
+name: "Experimental Designs in the Era of Artificial Intelligence"
+output_dir: "."
+navbar:
+  title: "2025 Experimental Designs Workshop"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Schedule"
+      href: schedule.html
+    - text: "Location & Travel"
+      href: location.html
+    - text: "Registration"
+      href: registration.html
+    - text: "Sponsors"
+      href: sponsors.html
+
+output:
+  html_document:
+    theme: cosmo
+    highlight: tango
+    self_contained: true

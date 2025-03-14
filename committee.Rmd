@@ -1,0 +1,13 @@
+
+---
+title: "Organization Committee"
+---
+
+- **Jingshen Wang**, UC Berkeley
+- **Waverly Wei**, University of Southern California
+- **YYY**, YYY University
+- **ZZZ**, ZZZ University
+
+---
+
+Learn more about the [workshop details](index.html) or [contact us](contact.html).

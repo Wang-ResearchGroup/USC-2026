@@ -1,0 +1,26 @@
+---
+title: ""
+---
+
+### Speakers
+
+We are honored to feature the following distinguished speakers for this workshop:
+
+- Sofia S. Villar, *University of Cambridge*
+- Boxin Tang, *Simon Fraser University*
+- Yuan Ji, *University of Chicago*
+- Lu Tian, *Stanford University*
+- Feifang Hu, *George Washington University*
+- Annie Qu, *University of California, Irvine*
+- William Rosenberger, *George Mason University*
+- Yuan Ying, *MD Anderson Cancer Center*
+- Luke Keele, *University of Pennsylvania*
+- Michael Kosorok, *University of North Carolina at Chapel Hill*
+- Bin Yu, *University of California, Berkeley*
+- Hongyu Zhao, *Yale University*
+- Mark van der Laan, *University of California, Berkeley*
+- Tianxi Cai, *Harvard University*
+- Hongtu Zhu, *University of North Carolina at Chapel Hill*
+
+
+![Berkeley Image](berkeley_photo_2.png)  <!-- Placeholder for the image -->
